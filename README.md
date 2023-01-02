@@ -10,4 +10,4 @@ Usage:
 5. Recompile mastodon: `RAILS_ENV=production bundle exec rails assets:precompile`
 6. Restart mastodon: `systemctl restart nginx mastodon-*`
 
-Originally for https://furry.lgbt
+Originally made for https://furry.lgbt

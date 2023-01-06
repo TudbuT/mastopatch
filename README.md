@@ -9,5 +9,3 @@ Usage:
 4. Apply the patch: `git apply <path to patch>`
 5. Recompile mastodon: `RAILS_ENV=production bundle exec rails assets:precompile`
 6. Restart mastodon: `systemctl restart nginx mastodon-*`
-
-Originally made for https://furry.lgbt

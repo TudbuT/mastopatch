@@ -20,3 +20,4 @@ index fc7359cfc..c12961867 100644
 
    def build_fields
      return if fields.size >= DEFAULT_FIELDS_SIZE
+

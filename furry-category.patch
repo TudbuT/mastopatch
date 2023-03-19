@@ -15,8 +15,8 @@ index 9a9309be0..759f62f27 100644
            <>
              <ColumnLink transparent to='/public/local' icon='users' text={intl.formatMessage(messages.local)} />
              <ColumnLink transparent exact to='/public' icon='globe' text={intl.formatMessage(messages.federated)} />
-+            <ColumnLink transparent exact to='/tags/furryart' icon='brush' text={intl.formatMessage(messages.furryArt)} />
-+            <ColumnLink transparent exact to='/tags/furry' icon='fox' text={intl.formatMessage(messages.furry)} />
++            <ColumnLink transparent exact to='/tags/furryart' icon='paint-brush' text={intl.formatMessage(messages.furryArt)} />
++            <ColumnLink transparent exact to='/tags/furry' icon='paw' text={intl.formatMessage(messages.furry)} />
            </>
          )}
 
